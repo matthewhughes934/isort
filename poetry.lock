@@ -2651,4 +2651,4 @@ plugins = ["setuptools"]
 [metadata]
 lock-version = "2.0"
 python-versions = ">=3.9.0"
-content-hash = "2f338265a7b19ab2ccd5effad4f1754ab1efaf81b6a0401e1e89ff46dc47f16a"
+content-hash = "38fd51a68b19c1c9dbfc23428403294467f6d554415af02b103619d009f97adf"
